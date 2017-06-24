@@ -3,7 +3,6 @@
  * Consiste en controlar el color y la intensidad de 3 leds 
  * comunes y un RGB mediante dos potenciometros, uno para el brillo 
  *  y otro que define el color.
- * Muestra de Actualizacion de Git
 */
 
 const int pinVerde = 9; //Led Verde en el pinDigital 9
